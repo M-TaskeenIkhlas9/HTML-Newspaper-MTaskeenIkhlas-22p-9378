@@ -1,9 +1,9 @@
 # HTML Newspaper Recreation - Dawat (The Invitation)
 
 ## Student Information
-- **Name:** [Your Name]
-- **Roll Number:** [Your Roll No]
-- **Section:** [Your Section]
+- **Name:** M.Taskeen Ikhlas
+- **Roll Number:** 22p-9378
+- **Section:** BCS-8B
 
 ## Original Newspaper
 - **Name:** دعوت (Dawat) - The Invitation
